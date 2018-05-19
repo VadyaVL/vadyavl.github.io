@@ -1,0 +1,17 @@
+{
+  "icons": [
+    {
+      "src": "icon_32x32.03fef2eecf57b35d246b0247344795d5.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "name": "Vadym Lytvyn Site",
+  "short_name": "VadyaVL",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "My awesome Progressive Web App!",
+  "background_color": "#ff0000",
+  "theme_color": "#000000"
+}
